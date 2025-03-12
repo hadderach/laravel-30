@@ -60,7 +60,7 @@
                             <div
                                 class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
                                 <x-form-input name="password_confirmation" id="password_confirmation" required
-                                    type="password_confirmation" />
+                                    type="password" />
                                 <x-form-error name="password_confirmation" />
                             </div>
                         </div>
